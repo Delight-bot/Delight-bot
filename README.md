@@ -1,6 +1,6 @@
 ![Delight-bot's GitHub Avatar](https://avatars.githubusercontent.com/Delight-bot)
 
-# Hi, I'm Delight-bot 👋
+# Hi, I'm Delight 👋
 
 **Student | Aspiring Software Developer**
 
