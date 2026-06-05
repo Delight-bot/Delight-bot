@@ -1,4 +1,4 @@
-![Delight-bot's GitHub Avatar](https://avatars.githubusercontent.com/Delight-bot<img width="2667" height="4000" alt="Delight_Headshot" src="https://github.com/user-attachments/assets/9312cb67-ca6d-4bb6-a143-a57d2dd3dafc" />
+![Delight-bot's GitHub Avatar](https://avatars.githubusercontent.com/Delight-bot<img width="266" height="400" alt="Delight_Headshot" src="https://github.com/user-attachments/assets/9312cb67-ca6d-4bb6-a143-a57d2dd3dafc" />
 )
 
 # Hi, I'm Delight 👋
