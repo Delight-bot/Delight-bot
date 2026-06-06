@@ -1,4 +1,4 @@
-# Hi, I'm Delight 👋
+# Hi, I'm Delight
 
 **Student | Aspiring Software Developer**
 
@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about building impactful software and con
 
 ---
 
-## 🚀 Top Skills
+## Top Skills
 
 - Python, JavaScript, C
 - React, Flask, Tailwind CSS, Supabase
@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m passionate about building impactful software and con
 
 ---
 
-## 👀 Interests
+##  Interests
 
 - Software development
 - Building useful tools
@@ -32,7 +32,7 @@ Welcome to my GitHub! I’m passionate about building impactful software and con
 
 ---
 
-## 🔗 Find Me Elsewhere
+##  Find Me Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/delight-nyanhete/)
 
